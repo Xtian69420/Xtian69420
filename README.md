@@ -1,4 +1,4 @@
-# Christian Signo
+# **Christian Signo**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffb13b?logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python)
 ![React](https://img.shields.io/badge/React-Developer-61dafb)
