@@ -10,7 +10,7 @@
 - 💻 **Role**: Developer (Website/Game)
 
 <details>
-  <summary>Click to expand</summary>
+  <summary> Expand to see more... </summary>
 
 ## Technologies & Tools I Work With
 
@@ -37,9 +37,9 @@
 - Render
 - AWS
 
-</details>
-
 ## 🌱 Currently Learning
 - Exploring **Machine Learning** with Python
 - Building **Full-Stack Applications** with React and Node.js
 - Current Project **School Capstone** with React and Node.js using REST API
+
+</details>
