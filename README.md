@@ -41,7 +41,8 @@
 - Firebase
 - AWS
 
-### 🧑‍💻 **Other Interests**
+### 🧑‍💻 **Project Platform**
+- Web Development
 - Software Development
 - Mobile App Development
 - Game Development (C# with Unity)
