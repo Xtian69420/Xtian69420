@@ -9,6 +9,9 @@
 - 🏫 **School**: STI College Fairview (PH)
 - 💻 **Role**: Developer (Website/Game)
 
+<details>
+  <summary>Click to expand</summary>
+
 ## Technologies & Tools I Work With
 
 - JavaScript
@@ -33,9 +36,10 @@
 - Docker
 - Render
 - AWS
+
+</details>
+
 ## 🌱 Currently Learning
 - Exploring **Machine Learning** with Python
 - Building **Full-Stack Applications** with React and Node.js
 - Current Project **School Capstone** with React and Node.js using REST API
-
----
