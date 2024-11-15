@@ -10,7 +10,7 @@
 - 💻 **Role**: Developer (Website/Game)
 
 ## Technologies & Tools I Work With
-### 🔧 **Languages**
+
 - JavaScript
 - Python
 - C#
@@ -18,16 +18,7 @@
 - C++
 - TypeScript
 - Kotlin
-
-### 🚀 **Frontend Development**
-- React
-- React Native
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind
-
-### 🖥️ **Backend Development**
+--------------
 - Node.js
 - Express.js
 - REST APIs
@@ -36,13 +27,8 @@
 - SQL (MySQL, PostgreSQL)
 - Firebase
 - JWT Authentication
-
-### ⚙️ **Tools & Libraries**
-- Git & GitHub
-- MongoDB Atlas
-- SQL (MySQL, PostgreSQL)
 - Docker
-- Firebase Manager 
+- Render
 - AWS
 
 ### 🧑‍💻 **Project Platform**
@@ -57,5 +43,3 @@
 - Current Project **School Capstone** with React and Node.js using REST API
 
 ---
-
-Feel free to check out my repositories below and connect with me!
