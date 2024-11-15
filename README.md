@@ -35,10 +35,10 @@
 
 ### ⚙️ **Tools & Libraries**
 - Git & GitHub
-- MongoDB
+- MongoDB Atlas
 - SQL (MySQL, PostgreSQL)
 - Docker
-- Firebase
+- Firebase Manager 
 - AWS
 
 ### 🧑‍💻 **Project Platform**
