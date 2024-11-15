@@ -47,7 +47,7 @@
 - Mobile App Development
 - Game Development (C# with Unity)
 
-## 🌱 Current Learning
+## 🌱 Currently Learning
 - Exploring **Machine Learning** with Python
 - Building **Full-Stack Applications** with React and Node.js
 - Current Project **School Capstone** with React and Node.js using REST API
