@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian Signo
+# 👋 Hi, I'm Christian
 
 ## About Me
 - 🎓 **Age**: 20 years old
