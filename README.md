@@ -5,8 +5,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 
 ## About Me
-- 🎓 **Age**: 20 years old
-- 🏫 **Status**: Student - Third Year (PH-Based)
+- ⚪ **Age**: 20 years old
+- 🎓 **Status**: Student - Third Year (PH-Based)
 - 💻 **Role**: Developer (Website/Game)
 
 <details>
