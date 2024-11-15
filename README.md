@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Christian
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffb13b?logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776ab?logo=python)
+![React](https://img.shields.io/badge/React-Developer-61dafb)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 
 ## About Me
 - 🎓 **Age**: 20 years old
