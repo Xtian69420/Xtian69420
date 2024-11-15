@@ -24,19 +24,15 @@
 - REST APIs
 - GraphQL
 - MongoDB
+- Flutter
+- Unity (Game)
+- Godot (Game)
 - SQL (MySQL, PostgreSQL)
 - Firebase
 - JWT Authentication
 - Docker
 - Render
 - AWS
-
-### 🧑‍💻 **Project Platform**
-- Web Development
-- Software Development
-- Mobile App Development
-- Game Development (C# with Unity)
-
 ## 🌱 Currently Learning
 - Exploring **Machine Learning** with Python
 - Building **Full-Stack Applications** with React and Node.js
