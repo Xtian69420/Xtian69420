@@ -6,7 +6,7 @@
 
 ## About Me
 - 🎓 **Age**: 20 years old
-- 🏫 **School**: STI College Fairview (PH)
+- 🏫 **Status**: Student - Third Year (PH-Based)
 - 💻 **Role**: Developer (Website/Game)
 
 <details>
