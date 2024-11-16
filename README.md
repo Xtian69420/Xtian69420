@@ -38,7 +38,7 @@
 - Render
 - AWS
 
-## 🌱 Currently Learning
+## 🌱 Currently focused
 - A lil bit of exploring **Machine Learning** with Python
 - Side Project **Full-Stack Applications** with React and Node.js
 - Current Project: **School Capstone** with RESTful and Node.js using ExpressJS
