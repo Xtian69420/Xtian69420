@@ -26,6 +26,8 @@
 - Node.js
 - Express.js
 - REST APIs
+- React
+- React Native
 - GraphQL
 - MongoDB
 - Flutter
