@@ -28,6 +28,7 @@
 - REST APIs
 - React
 - React Native
+- websocket
 - GraphQL
 - MongoDB
 - Flutter
