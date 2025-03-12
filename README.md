@@ -6,7 +6,7 @@
 
 ## About Me
 - ⚪ **Age**: 20 years old
-- 🎓 **Status**: Student - Third Year (PH-Based)
+- 🎓 **Status**: Student - Junior year
 - 💻 **Role**: Developer (Website/Game)
 
 <details>
