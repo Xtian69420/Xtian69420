@@ -12,7 +12,7 @@
 <details>
   <summary> Expand to see more... </summary>
 
-## Technologies & Tools I Work With
+## Environment & Tools I Work With
 
 - JavaScript
 - Python
