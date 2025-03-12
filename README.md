@@ -7,7 +7,7 @@
 ## About Me
 - ⚪ **Age**: 20 years old
 - 🎓 **Status**: Student - Junior year
-- 💻 **Role**: Developer (Website/Game)
+- 💻 **Role**: Developer (Website/Game/Mobile)
 
 <details>
   <summary> Expand to see more... </summary>
@@ -22,21 +22,15 @@
 - C++
 - Kotlin
 ##
-- Node.js
-- Express.js
 - REST APIs
 - React
 - React Native
 - websocket
-- GraphQL
 - MongoDB
 - Flutter
-- Unity (Game)
-- Godot (Game)
+- Unity
+- Godot 
 - SQL (MySQL, PostgreSQL)
-- Firebase
-- JWT Authentication
-- Docker
 - Render
 - AWS
 
