@@ -14,13 +14,12 @@
 
 ## Environment & Tools I Work With
 
-- JavaScript
+- JavaScript/TypeScript
 - Python
 - PHP
 - C#
 - Java
 - C++
-- TypeScript
 - Kotlin
 ##
 - Node.js
