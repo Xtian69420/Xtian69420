@@ -20,19 +20,15 @@
 - C#
 - Java
 - C++
-- Kotlin
 ##
 - REST APIs
-- React
-- React Native
-- websocket
-- MongoDB
-- Flutter
+- Websocket
+- React/ReactNative
 - Unity
+- Unreal Engine
 - Godot 
 - SQL (MySQL, PostgreSQL)
-- Render
-- AWS
+- NoSQL (MongoDb)
 
 ## 🌱 Currently focused
 - A lil bit of exploring **Machine Learning** with Python
