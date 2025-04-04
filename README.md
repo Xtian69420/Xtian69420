@@ -22,8 +22,9 @@
 - C++
 ##
 - REST APIs
-- Websocket
-- React/ReactNative
+- WebSockets
+- React
+- ReactNative
 - Unity
 - Unreal Engine
 - Godot 
