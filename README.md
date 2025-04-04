@@ -7,7 +7,7 @@
 ## About Me
 - ⚪ **Age**: 20 years old
 - 🎓 **Status**: Student - Junior year
-- 💻 **Role**: Developer (Website/Game/Mobile/API)
+- 💻 **Role**: Developer (Website, Game, Mobile, API)
 
 <details>
   <summary> Expand to see more... </summary>
