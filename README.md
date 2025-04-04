@@ -31,6 +31,10 @@
 - SQL (MySQL, PostgreSQL)
 - NoSQL (MongoDb)
 
+## Others
+- Arduino Uno
+- Circuit Design (Analog/Digital)
+
 ## 🌱 Currently focused
 - A lil bit of exploring **Machine Learning** with Python
 - Side Project **Full-Stack Applications** with React.
