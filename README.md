@@ -29,7 +29,7 @@
 - Godot 
 - Unity
 - SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDb)
+- NoSQL (MongoDb, Cassandra)
 
 ## Others
 - Arduino Uno
