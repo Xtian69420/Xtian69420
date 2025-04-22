@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>Christian Signo – Profile</title>
-<style>
-  body { font-family: system-ui, sans-serif; line-height:1.5; margin:2rem; }
-  .badges img { margin-right: .5rem; vertical-align: middle; }
-  details { margin-top:1rem; }
-</style>
-</head>
 <body>
 
 <h1>Christian Signo</h1>
