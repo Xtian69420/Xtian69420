@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-transparent?style=flat&logo=javascript&logoColor=%23ffb13b"
      alt="JavaScript badge"
-     style="vertical-align:middle;margin-right:4px;border:none;background:none;height:22px;" />
+     style="border:none;background-color:white;height:22px;" />
 
 <img src="https://img.shields.io/badge/Python-transparent?style=flat&logo=python&logoColor=%233776ab"
      alt="Python badge"
