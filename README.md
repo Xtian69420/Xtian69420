@@ -4,12 +4,26 @@
 
 <h1>Christian Signo</h1>
 
-<div class="badges">
-  <img src="https://img.shields.io/badge/JavaScript-transparent?style=flat&logo=javascript&logoColor=%23ffb13b" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/Python-transparent?style=flat&logo=python&logoColor=%233776ab" alt="Python badge">
-  <img src="https://img.shields.io/badge/React%20Developer-transparent?style=flat&logo=react&logoColor=%2361dafb" alt="React Developer badge">
-  <img src="https://img.shields.io/badge/Node.js-transparent?style=flat&logo=node.js&logoColor=%23339933" alt="Node.js badge">
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-transparent?style=flat&logo=javascript&logoColor=%23ffb13b"
+     alt="JavaScript badge"
+     style="vertical-align:middle;margin-right:4px;border:none;background:none;height:22px;" />
+
+<img src="https://img.shields.io/badge/Python-transparent?style=flat&logo=python&logoColor=%233776ab"
+     alt="Python badge"
+     style="vertical-align:middle;margin-right:4px;border:none;background:none;height:22px;" />
+
+<img src="https://img.shields.io/badge/React%20Developer-transparent?style=flat&logo=react&logoColor=%2361dafb"
+     alt="React Developer badge"
+     style="vertical-align:middle;margin-right:4px;border:none;background:none;height:22px;" />
+
+<img src="https://img.shields.io/badge/Node.js-transparent?style=flat&logo=node.js&logoColor=%23339933"
+     alt="Node.js badge"
+     style="vertical-align:middle;border:none;background:none;height:22px;" />
+
 </div>
+
 
 <h2>About Me</h2>
 <ul>
