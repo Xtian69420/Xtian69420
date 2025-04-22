@@ -1,8 +1,8 @@
 # **Christian Signo**
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffb13b?logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776ab?logo=python)
-![React](https://img.shields.io/badge/React-Developer-61dafb)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23ffb13b)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=%233776ab)
+![React](https://img.shields.io/badge/React--Developer-white?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Node.js](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js&logoColor=%23339933)
 
 ## About Me
 - ⚪ **Age**: 20 years old
