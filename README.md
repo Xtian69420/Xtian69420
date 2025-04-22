@@ -38,6 +38,6 @@
 ## 🌱 Currently focused
 - A lil bit of exploring **Machine Learning** with Python
 - Side Project **Full-Stack Applications** with React.
-- Next Project: **School Capstone** with REST and ExpressJS
+- Current Project: **School Capstone** with MERN (MongoDB, Express, React, Node(RESTful)) environment
 
 </details>
