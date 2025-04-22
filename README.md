@@ -4,7 +4,7 @@
 
 <h1>Christian Signo</h1>
 
-<div align="center">
+<div>
 
 <img src="https://img.shields.io/badge/JavaScript-transparent?style=flat&logo=javascript&logoColor=%23ffb13b"
      alt="JavaScript badge"
