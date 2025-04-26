@@ -11,7 +11,7 @@
 <h2>About Me</h2>
 <ul>
   <li>⚪ <strong>Age</strong>:  20 years old</li>
-  <li>🎓 <strong>Status</strong>:  Student, Junior year</li>
+  <li>🎓 <strong>Status</strong>:  Student - Junior year</li>
   <li>💻 <strong>Role</strong>:  Developer (Website, Game, Mobile, API)</li>
 </ul>
 
