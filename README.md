@@ -5,8 +5,9 @@
   <img src="https://img.shields.io/badge/Python-transparent?style=flat&logo=python&logoColor=%233776ab" alt="Python badge">
   <img src="https://img.shields.io/badge/React%20Developer-transparent?style=flat&logo=react&logoColor=%2361dafb" alt="React Developer badge">
   <img src="https://img.shields.io/badge/Node.js-transparent?style=flat&logo=node.js&logoColor=%23339933" alt="Node.js badge">
+  <img src="https://img.shields.io/badge/Unity%20Developer-transparent?style=flat&logo=unity&logoColor=white" alt="Unity Developer badge">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-transparent?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Developer badge">
 </div>
-
 
 <h2>About Me</h2>
 <ul>
